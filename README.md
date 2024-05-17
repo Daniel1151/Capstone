@@ -1,5 +1,7 @@
 # Medical App
 
-FINAL PROJECT FOR 2ND YEAR AT EVIT
+A new Flutter project.
 
-All rights reserved. Permission is granted to view the files in this repository for reference purposes only. No code may be copied, modified, distributed, or used in any form without explicit written permission from the owner.
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
